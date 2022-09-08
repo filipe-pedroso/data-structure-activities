@@ -1,9 +1,3 @@
-/**
- * @author      : lopespt (lopespt@$HOSTNAME)
- * @file        : LDE
- * @created     : quarta set 08, 2021 21:22:01 -03
- */
-
 class No{
     public int valor;
     public No proximo;

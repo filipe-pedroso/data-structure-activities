@@ -1,8 +1,4 @@
-/**
- * @author      : lopespt (lopespt@$HOSTNAME)
- * @file        : main
- * @created     : quarta set 01, 2021 21:38:51 -03
- */
+package activities.week01;
 
 interface ILista{
   public boolean insere(int valor);
